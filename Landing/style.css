@@ -1,0 +1,96 @@
+
+#inicio{
+background:linear-gradient(hsl(260, 5%, 11%), hsl(200, 84%, 19%) );
+padding-top: 100px;
+
+}
+.nombre{
+text-align: center;
+color: #ffffff;
+font-weight: bold;
+}
+#Descripcion{
+text-align: center;
+color: #ffffff;
+margin-bottom: 60px;
+}
+.contDesc,.card-text{
+text-align: justify;
+color: #ffffff;   
+}
+#IPW {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+#MV, .card{
+ background:linear-gradient(hsl(200, 84%, 19%) , hsl(200, 83%, 28%) );
+text-align: center;
+padding: 10px;
+}
+
+#Mision,#Vision,#tVal{
+    text-align: center;
+    color: #ffffff;
+}
+
+#Valores{
+    background:linear-gradient(hsl(200, 83%, 28%),hsl(200, 84%, 38%));
+    text-align: justify;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #ffffff;
+}
+#PC{
+    background:linear-gradient(hsl(200, 84%, 38%),hsl(200, 83%, 50%));
+    text-align: justify;
+    color: #ffffff;
+}
+-Cl{
+    font-size: 40px;
+
+}
+#carrusel{
+    height: 300px;
+}
+footer{
+    background:linear-gradient(hsl(200, 83%, 50%),hsl(200, 83%, 71%));
+    text-align: center;
+    padding: 40px;
+}
+#Formulario{
+    text-align: left;
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+ 
+    }
+    .enviar{
+        width: 40%;
+        padding: 15px 0;
+        font-size: 18px;
+        font-weight: bold;
+        color: white;
+        background: orange;
+        border: none;
+        border-radius: 5px;
+        transition: 1s all;
+        cursor: pointer;
+    }
+    .enviar:hover{
+        background: darkorange;
+        transform: scale(1.2);
+          
+        }
+#logo{
+    width: 100px;
+    height: 100px;
+}
+.copyright{
+    color: #FFFFFF;
+    font-size: 30px;
+    margin: 20px;
+}
